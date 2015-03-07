@@ -6,6 +6,8 @@ Existing resources and people working on this:
 * Norman Gray's modification of Elsevier style files: https://github.com/nxg/elsarticle
 * Tim Jenness is involved in MNRAS style maintenance (url needed)
 
+See also Norman Gray's latest proposal: https://github.com/aaccomazzi/ads_bibtex.git
+
 ### Original inspiration from Norman Gray's (norman@astro.gla.ac.uk):
 
 There are a number of informal BibTeX conventions for things like the 'url' field or 'doi' or 'eprint'.  They're 'informal' since they're not documented anywhere, but are either obvious, or have some obvious consensus on use.  As well, there's at least one fairly common BibTeX entry type -- @webpage -- which I at least support in the 'urlbst' style.
