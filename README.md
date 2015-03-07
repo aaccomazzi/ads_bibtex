@@ -6,7 +6,7 @@ Existing resources and people working on this:
 * Norman Gray's modification of Elsevier style files: https://github.com/nxg/elsarticle
 * Tim Jenness is involved in MNRAS style maintenance (url needed)
 
-See also Norman Gray's latest proposal: https://github.com/aaccomazzi/ads_bibtex.git
+See also Norman Gray's latest proposal: http://text.nxg.me.uk/2015/2ncf
 
 ### Original inspiration from Norman Gray's (norman@astro.gla.ac.uk):
 
